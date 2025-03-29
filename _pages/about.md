@@ -29,7 +29,7 @@ My research focuses on Reinforcement Learning, Embodied AI and Self-supervised l
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024(Poster)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffStitch: boosting offline reinforcement learning with diffusion-based trajectory stitching](https://openreview.net/pdf?id=phGHQOKmaU)
