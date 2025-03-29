@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final year undergraduate student at Jilin University, College of CS. 
+I am a final year undergraduate student at Jilin University, College of CS.  
 I am expected to join Tsinghua University, College of AI as P.hD candidate in 2025 Fall. 
 My research focuses on Reinforcement Learning, Embodied AI and Self-supervised learning. 
 
@@ -48,8 +48,8 @@ My research focuses on Reinforcement Learning, Embodied AI and Self-supervised l
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09(Expected) - 2030.09 (now)*, P.hD Candidate, Tsinghua University, College of AI 
+- *2021.09 - 2025.09*, Undergraduate Student, Jilin University, College of CS 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
