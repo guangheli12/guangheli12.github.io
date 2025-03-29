@@ -48,7 +48,7 @@ My research focuses on Reinforcement Learning, Embodied AI and Self-supervised l
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2025.09(Expected) - *, PhD. student, Tsinghua University, College of AI 
+- *2025.09(Expected) -*, PhD. student, Tsinghua University, College of AI 
 - *2021.09 - 2025.09*, Undergraduate Student, Jilin University, College of CS 
 
 # 💬 Invited Talks
