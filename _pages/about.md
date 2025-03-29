@@ -40,6 +40,15 @@ My research focuses on Reinforcement Learning, Embodied AI and Self-supervised l
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024(Poster)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffStitch: boosting offline reinforcement learning with diffusion-based trajectory stitching](https://openreview.net/pdf?id=phGHQOKmaU)
+
+**Guanghe Li**,Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
