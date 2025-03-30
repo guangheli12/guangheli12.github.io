@@ -30,50 +30,20 @@ My research focuses on Reinforcement Learning, Embodied AI and Self-supervised L
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 (Oral)</div><img src='images/dpcml_nips22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[The Minority Matters: A Diversity-Promoting Collaborative Metric Learning Algorithm](https://arxiv.org/pdf/2209.15292.pdf).
+## 2024 
 
-**Shilong Bao**, Qianqian Xu, Zhiyong Yang , Yuan He, Xiaochun Cao, Qingming Huang. Advances in Neural Information Processing Systems (**NeurIPS**), 2451-2464, 2022. **<font color='red'> (Oral, 1.7%) </font>** \| [\[Code\]](https://github.com/statusrank/DPCML)\| [\[Video\]](https://nips.cc/virtual/2022/poster/55412) \| [\[Poster\]](https://nips.cc/media/PosterPDFs/NeurIPS%202022/55412.png?t=1668477709.8846257) \| [\[Slides\]](https://nips.cc/virtual/2022/poster/55412)
-</div>
-</div>
+[DiffStitch: boosting offline reinforcement learning with diffusion-based trajectory stitching](https://openreview.net/pdf?id=phGHQOKmaU)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021 (Long Talk)</div><img src='images/tpauc_icml21.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC.pdf).
-
-Zhiyong Yang, Qianqian Xu, **Shilong Bao**, Yuan He, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 11820–11829, 2021. **<font color='red'> (Long Talk, 3%) </font>** \| [\[Code\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC)\| [\[Video\]](https://slideslive.com/38958537/when-all-we-need-is-a-piece-of-the-pie-a-generic-framework-for-optimizing-twoway-partial-auc?ref=speaker-22247) \| [\[Poster\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/TPAUC_poster.png) \| [\[Slides\]](https://github.com/statusrank/A-Generic-Framework-for-Optimizing-Two-way-Partial-AUC/blob/main/oral_pdf.pdf)
-</div>
-</div>
+**Guanghe Li**,Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang. (**ICML Poster**), 2024. 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 (Spotlight)</div><img src='images/SI_SOD1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection](https://arxiv.org/pdf/2405.09782).
+[ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219)
 
-Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao and Qingming Huang. International Conference on Machine Learning (**ICML**), 2024. **<font color='red'> (Spotlight, 3.5%) </font>** \| [\[Code\]](https://github.com/Ferry-Li/SI-SOD)\| [\[Video\]](https://) \| [\[Poster\]](https://) \| [\[Slides\]](https://) \| [\[Project\]](https://ferry-li.github.io/SI_SOD/)
-</div>
-</div>
-
-- [ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219). Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang. (**AAAI Oral**), 2024.
+Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang. (**AAAI Oral**), 2024.
 
 
 
-# 📖 Services
 
-### Conferences
- - *ICML*: PC Member (2022, 2023, 2024, 2025)
- - *ICLR*: PC Member (2024, 2025)
- - *AISTATS*: PC Member (2025)
- - *NeurIPS*: PC Member (2023, 2024)
- - *AAAI*: PC Member (2023, 2024, 2025)
- - *CVPR*: PC Member (2024, 2025)
-
-### Journals
-- IEEE Transactions on Multimedia (T-MM): Reviewer
-- IEEE Transactions on Circuits and Systems for Video Technology publication information (T-CSVT): Reviewer
-- ACM Transactions on Multimedia Computing, Communications and Applications (TOMM): Reviewer
-- Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
 - *2024*: 小米特等奖学金(¥20000)
