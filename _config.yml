@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guanghe Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Post-doc Fellow with the School of Computer Science and Technology, UCAS"
+  bio              : "CS Undergrad, JLU"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=5ZCgkQkAAAAJ&hl=zh-CN"
-  email            : "baoshilong@ucas.ac.cn"
-  researchgate     :  "https://www.researchgate.net/profile/Shilong-Bao/research"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=EeBhaFgAAAAJ&hl=zh-CN"
+  email            : "3280939942@qq.com"
+  researchgate     : # "https://www.researchgate.net/profile/Shilong-Bao/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : statusrank
+  github           : guangheli12
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/143/0246.html"
+  dblp             : #"https://dblp.org/pid/143/0246.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
