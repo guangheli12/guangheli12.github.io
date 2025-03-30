@@ -55,7 +55,8 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 </div>
 </div>
 
-- [ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219). Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang. IEEE Transactions on Pattern Analysis and Machine Intelligence (AAAI Oral), 2024.
+- [ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219). Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang. (**AAAI Oral**), 2024.
+
 
 
 # 📖 Services
@@ -75,10 +76,11 @@ Feiran Li, Qianqian Xu, **Shilong Bao**, Zhiyong Yang, Runmin Cong, Xiaochun Cao
 - Multimedia Systems: Reviewer
 
 # 🎖 Honors and Awards
-- *2024* Outstanding Doctoral Dissertation Award of Beijing Society of Image and Graphics (BSIG). (北京图象图形学学会优秀博士学位论文奖 (京津冀5篇))
-- *2023* Zhuliyuehua Scholarship for Excellent Doctoral Student, CAS. (中国科学院朱李月华奖学金，中科院共300人)
-- *2022* National Scholarship, Ministry of Education of the People’s Republic of China. (国家奖学金)
-- *2021* Director Special Scholarship Award, IIE, CAS. (中科院信息工程研究所所长特别奖)
+- *2024*: 小米特等奖学金(¥20000)
+- *2024*: Outstanding Award for Scientific Research(¥50000)
+- *2023*: National Scholarship(¥8000)
+- *2022*: ACM-ICPC(Asia Shenyang Regional), Gold medal 
+- *2020*: National Olympiad in Informatics (NOI2019), Bronze Award 
 
 # 🎓 Educations
 
