@@ -55,9 +55,9 @@ Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng
 # 🎓 Educations
 
 <div class='school-box'>
-<div><img src='images/ucas.jpg' alt="sym" width="80"></div>
+<div><img src='images/THU.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2025.09(Expected) - , Ph.D. in Computer Science (081200).
+2025.09(Expected) - , Ph.D. in Computer Science.
 
 College of Artificial Intelligence.
 
@@ -66,7 +66,7 @@ Tsinghua University (THU), Beijing.
 </div>
 
 <div class='school-box'>
-<div><img src='images/qdu.png' alt="sym" width="80"></div>
+<div><img src='images/JLU.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2021.09 - 2025.06, Undergraduate.
 
