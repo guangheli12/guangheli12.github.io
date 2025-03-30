@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Shilong Bao(包世龙, E-mail: baoshilong@ucas.ac.cn). Now I am a Post-doc Fellow with the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). I got my Ph.D. degree in **Institute of Information Engineering, Chinese Academy of Sciences (IIE, CAS)**, supervised by Prof. [Qingming Huang (黄庆明)](https://qmhuang-ucas.github.io/) (IEEE Fellow). I am also lucky to have opportunities to collaborate with [Qianqian Xu (许倩倩)](https://qianqianxu010.github.io/) (Professor at Institute of Computing Technology (ICT), CAS), [Xiaochun Cao (操晓春)](https://scst.sysu.edu.cn/members/caoxiaochun.htm) (Dean of School of Cyber Science and Technology, Sun Yat-sen University),  [Yuan He (何源)](https://scholar.google.com/citations?user=cWbXLzgAAAAJ&hl=zh-CN) (Alibaba Group), [Ke Ma (马坷)](https://www.researchgate.net/profile/Ke_Ma10) (Tenure-track Assistant Professor at UCAS), [Zhiyong Yang (杨智勇)](https://joshuaas.github.io/) (Tenure-track Assistant Professor at UCAS).
-
-My research interest includes machine learning and data mining. I have authored or co-authored several academic papers in top-tier international conferences and journals, including T-PAMI, ICML, NeurIPS, and ACM Multimedia.
+Hi! I'm Guanghe Li, a fourth year undergraduate at CS Department, Jilin University.   
+I am expected to enter Tsinghua University, College of AI as PhD candidate in 2025 Fall.   
+My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning.  
 
 
 # 🔥 News
