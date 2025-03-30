@@ -32,14 +32,14 @@ My research focuses on Reinforcement Learning, Embodied AI and Self-supervised L
 
 ## 2024 
 
-[DiffStitch: boosting offline reinforcement learning with diffusion-based trajectory stitching](https://openreview.net/pdf?id=phGHQOKmaU)
+- [DiffStitch: boosting offline reinforcement learning with diffusion-based trajectory stitching](https://openreview.net/pdf?id=phGHQOKmaU)
 
-**Guanghe Li**,Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang. (**ICML Poster**), 2024. 
+  **Guanghe Li**,Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang. (**ICML Poster**), 2024. 
 
 
-[ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219)
+- [ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219)
 
-Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang. (**AAAI Oral**), 2024.
+  Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang. (**AAAI Oral**), 2024.
 
 
 
