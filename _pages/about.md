@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Guanghe Li, a fourth year undergraduate at CS Department, Jilin University.   
+I'm Guanghe Li, a fourth year undergraduate at CS Department, Jilin University.   
 I am expected to enter Tsinghua University, College of AI as PhD candidate in 2025 Fall.   
 My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning. If you're interested in my research, please email me at 3280939942@qq.com. 
 
@@ -46,11 +46,11 @@ My research focuses on Reinforcement Learning, Embodied AI and Self-supervised L
 
 
 # 🎖 Honors and Awards
-- *2024*: Xiaomi Scholarship(小米特等奖学金), ¥20000
-- *2024*: Outstanding Award for Scientific Research, ¥50000
-- *2023*: National Scholarship, ¥8000
-- *2022*: ACM-ICPC(Asia Shenyang Regional), Gold medal 
-- *2020*: National Olympiad in Informatics (NOI2019), Bronze Award 
+- *2024*: Xiaomi Scholarship(小米特等奖学金), ¥20,000
+- *2024*: Outstanding Award for Scientific Research, ¥50,000
+- *2023*: National Scholarship, ¥8,000
+- *2022*: ACM-ICPC(Asia Shenyang Regional), Gold Medal 
+- *2020*: National Olympiad in Informatics (NOI2019), Bronze Medal 
 
 # 🎓 Educations
 
