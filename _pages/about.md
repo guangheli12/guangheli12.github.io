@@ -19,9 +19,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Guanghe Li, a fourth year undergraduate at CS Department, Jilin University. My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning. 
+I'm Guanghe Li, a fourth year undergraduate at CS Department, Jilin University. My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning. If you're interested in my research, please email me at 3280939942@qq.com.     
 
-I am expected to enter Tsinghua University, College of AI as PhD candidate in 2025 Fall. If you're interested in my research, please email me at 3280939942@qq.com.    
+I am expected to enter Tsinghua University, College of AI as PhD candidate in 2025 Fall. 
 
 
 # 🔥 News
