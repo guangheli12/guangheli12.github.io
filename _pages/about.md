@@ -34,12 +34,16 @@ I am expected to enter Tsinghua University, College of AI as PhD candidate in 20
 
 - [DiffStitch: boosting offline reinforcement learning with diffusion-based trajectory stitching](https://openreview.net/pdf?id=phGHQOKmaU)
 
-  **Guanghe Li**,Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang. **<font color='red'>(ICML Poster)</font>**, 2024. 
+  **Guanghe Li**,Yixiang Shan, Zhengbang Zhu, Ting Long, Weinan Zhang.    
+
+  International Conference on Machine Learning **<font color='red'>(ICML)</font>**, 2024. 
 
 
 - [ProAgent: Building Proactive Cooperative Agents with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/29710/31219)
 
-  Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang. **<font color='red'>(AAAI Oral)</font>**, 2024.
+  Ceyao Zhang, Kaijie Yang, Siyi Hu, Zihao Wang, **Guanghe Li**, Yihang Sun, Cheng Zhang, Zhaowei Zhang, Anji Liu, Song-Chun Zhu, Xiaojun Chang, Junge Zhang, Feng Yin, Yitao Liang, Yaodong Yang.     
+
+  Association for the Advancement of Artificial Intelligence **<font color='red'>(AAAI), Oral</font>**, 2024.
 
 
 
