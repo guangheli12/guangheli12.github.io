@@ -51,7 +51,7 @@ I am expected to enter Tsinghua University, College of AI as Computer Science Ph
 
 # 🎖 Honors and Awards
 - *2024*: Xiaomi Scholarship(小米特等奖学金), ¥20,000
-- *2024*: Outstanding Award for Scientific Research, ¥50,000
+- *2024*: Jilin University Outstanding Award for Scientific Research, ¥50,000
 - *2023*: National Scholarship, ¥8,000
 - *2022*: ACM-ICPC(Asia Shenyang Regional), Gold Medal 
 - *2020*: National Olympiad in Informatics (NOI2019), Bronze Medal 
