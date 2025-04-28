@@ -55,7 +55,7 @@ I am expected to enter Tsinghua University, College of AI as Computer Science Ph
 
 
 # 🎖 Honors and Awards
-- *2025*: Jilin University "Wangxiang Hao"(王湘浩) Scholarship, ¥5,000
+- *2025*: Jilin University Wangxiang Hao(王湘浩) Scholarship, ¥5,000
 - *2024*: Xiaomi Scholarship(小米特等奖学金), ¥20,000
 - *2024*: Jilin University Outstanding Award for Scientific Research, ¥50,000
 - *2023*: National Scholarship, ¥8,000
