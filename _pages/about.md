@@ -32,7 +32,13 @@ I am expected to enter Tsinghua University, College of AI as Computer Science Ph
 
 ## 2025
 
-- Coming Soon. 
+- [EasyInsert: A Data-Efficient and Generalizable Insertion Policy](https://easyinsert.github.io)
+
+  **Guanghe Li**, Junming Zhao, Shengjie Wang, Yang Gao. 
+
+  In Submission. 
+
+
 
 ## 2024 
 
