@@ -25,6 +25,7 @@ I am expected to enter Tsinghua University, College of AI as Computer Science Ph
 
 
 # 🔥 News
+- *2025.05*: We release EasyInsert, a highly generalizable robotic insertion framework 
 - *2024.09*: &nbsp;🎉🎉 I am admitted to Tsinghua University, College of AI
 - *2024.05*: &nbsp;🎉🎉 Our paper "DiffStitch" is accpeted at ICML2024
 
