@@ -19,9 +19,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Guanghe Li, a fourth year undergraduate at CS Department, Jilin University. My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning. If you're interested in my research, please email me at 3280939942@qq.com.     
-
 I am expected to enter Tsinghua University, College of AI as Computer Science Ph.D candidate in 2025 Fall. 
+
+Before joining THU, I received my B.S. in Computer Science from Jilin University in 2025. My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning. If you're interested in my research, please email me at 3280939942@qq.com.     
+
+
 
 
 # 🔥 News
@@ -79,7 +81,7 @@ I am expected to enter Tsinghua University, College of AI as Computer Science Ph
 <div class='school-box'>
 <div><img src='images/THU.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2025.09(Expected) - , Ph.D. in Computer Science.
+2025.09 - , Ph.D. in Computer Science.
 
 College of Artificial Intelligence.
 
