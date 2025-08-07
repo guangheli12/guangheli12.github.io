@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am expected to enter Tsinghua University, College of AI as Computer Science Ph.D candidate in 2025 Fall. 
+I am expected to enter Tsinghua University, College of AI as Computer Science Ph.D candidate in 2025 Fall supervised by Professor Yang Gao. 
 
 Before joining THU, I received my B.S. in Computer Science from Jilin University in 2025. My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning. If you're interested in my research, please email me at 3280939942@qq.com.     
 
@@ -69,7 +69,6 @@ Before joining THU, I received my B.S. in Computer Science from Jilin University
 
 
 # 🎖 Honors and Awards
-- *2025*: Jilin University Wangxiang Hao(王湘浩) Scholarship, ¥5,000
 - *2024*: Xiaomi Scholarship(小米特等奖学金), ¥20,000
 - *2024*: Jilin University Outstanding Award for Scientific Research, ¥50,000
 - *2023*: National Scholarship, ¥8,000
