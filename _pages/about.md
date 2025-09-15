@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am expected to enter Tsinghua University, College of AI as Computer Science Ph.D candidate in 2025 Fall supervised by Professor Yang Gao. 
+I am a first year Computer Science Ph.D candidate at Tsinghua University, College of AI supervised by Professor Yang Gao. 
 
 Before joining THU, I received my B.S. in Computer Science from Jilin University in 2025. My research focuses on Reinforcement Learning, Embodied AI and Self-supervised Learning. If you're interested in my research, please email me at 3280939942@qq.com.     
 
