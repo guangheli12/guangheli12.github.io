@@ -63,6 +63,17 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+/*
+ * Root px fixes Mac Safari/WebKit vs Windows Edge mismatch:
+ * - explicit html font-size so rem is stable
+ * - -webkit-text-size-adjust avoids mobile/desktop shrinking surprises
+ */
+html {
+  font-size: 20px;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
 a {
   color: #1772d0;
   text-decoration: none;
@@ -76,7 +87,7 @@ a:hover {
 
 body {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 1.1rem;
   line-height: 1.58;
 }
 
@@ -91,48 +102,63 @@ ul,
 ol,
 div {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 1.1rem;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 20px;
+  font-size: 1.1rem;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 34px;
+  font-size: 1.75rem;
 }
 
 papertitle,
 span.papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 50px;
+  font-size: 2.55rem;
   line-height: 1.2;
 }
 
-/* Publication row: keep authors & abstract readable (same scale as body) */
+/* WebKit: font-size on tables/td must inherit explicitly */
+table,
+tbody,
+thead,
+tfoot,
+tr,
+td,
+th {
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: inherit;
+}
+
 td.pub-cell {
-  font-size: 21px;
+  font-size: 1.15rem;
   line-height: 1.55;
 }
 
-/* Venue line — emphasize with color only, not giant px */
-span.venue {
-  color: #d22;
+/*
+ * Venue / conference label — full hex + nested em + WebKit fill color (Safari/macOS)
+ */
+td.pub-cell span.venue,
+td.pub-cell span.venue em {
+  color: #cc2222;
+  -webkit-text-fill-color: #cc2222;
   font-style: italic;
   font-weight: 700;
   font-size: inherit;
 }
 
 span.auth-note {
-  color: #555;
+  color: #555555;
   font-size: 0.95em;
 }
 
