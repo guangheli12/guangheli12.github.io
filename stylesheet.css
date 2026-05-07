@@ -76,7 +76,7 @@ a:hover {
 
 body {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 19px;
+  font-size: 20px;
   line-height: 1.58;
 }
 
@@ -91,29 +91,49 @@ ul,
 ol,
 div {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 19px;
+  font-size: 20px;
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 19px;
+  font-size: 20px;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 32px;
+  font-size: 34px;
 }
 
-papertitle {
+papertitle,
+span.papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 21px;
+  font-size: 22px;
   font-weight: 700;
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 48px;
+  font-size: 50px;
   line-height: 1.2;
+}
+
+/* Publication row: keep authors & abstract readable (same scale as body) */
+td.pub-cell {
+  font-size: 21px;
+  line-height: 1.55;
+}
+
+/* Venue line — emphasize with color only, not giant px */
+span.venue {
+  color: #d22;
+  font-style: italic;
+  font-weight: 700;
+  font-size: inherit;
+}
+
+span.auth-note {
+  color: #555;
+  font-size: 0.95em;
 }
 
 .one {
