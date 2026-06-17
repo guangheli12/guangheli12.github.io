@@ -122,6 +122,47 @@ span.papertitle {
   font-weight: 700;
 }
 
+tr.featured-publication td {
+  background: #fff9d7;
+  border-top: 7px solid #ffffff;
+  border-bottom: 7px solid #ffffff;
+}
+
+tr.featured-publication td:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+tr.featured-publication td:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+tr.compact-featured-publication td.pub-cell p {
+  margin-top: 0.22rem;
+  margin-bottom: 0;
+}
+
+tr.compact-featured-publication td.pub-cell p:empty {
+  display: none;
+}
+
+tr.proagent-publication td.pub-cell > p:last-child {
+  margin-top: 0.12rem;
+  margin-bottom: 0;
+}
+
+tr.proagent-publication td.pub-cell p:empty {
+  display: none;
+}
+
+span.featured-news {
+  display: inline;
+  padding: 0.02rem 0.28rem;
+  background: #fff9d7;
+  border-radius: 6px;
+}
+
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 2.55rem;
